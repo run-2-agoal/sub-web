@@ -256,8 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-            { value: "https://jth-subconver.herokuapp.com/sub?" },
-            { value: "https://subconver-temp1.koyeb.app/sub?" },
+            { value: "https://silent-dream-be85.run2agoal332.workers.dev/sub?" },
         ],
         remoteConfig: [
         {
